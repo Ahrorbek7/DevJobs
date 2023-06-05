@@ -1,0 +1,351 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "postedIn": "5h ago Full Time",
+      "title": "Senior Software Engineer",
+      "company": "Scoot",
+      "website": "scoot.io",
+      "place": "United Kingdom",
+      "description": "Scoot is looking for a Senior Software Engineer passionate about building approachable, innovative and user-first experiences to join our small but growing Engineering team. You will be responsible for building and maintaining front end functionality across all of Scoot’s applications, fostering a growing team of software engineers, and helping drive and maintain best software patterns and practices in our codebase.",
+      "requirements": "The ideal candidate is as passionate about solving challenges through technology. They are well-versed in building proof of concepts from scratch and taking these POCs to production and scale. The right fit will have the engineering experience to build and iterate quickly and is comfortable working with product and design to set the technical strategy and roadmap.",
+      "whatYouWillDo": "The ideal candidate is as passionate about solving challenges through technology. They are well-versed in building proof of concepts from scratch and taking these POCs to production and scale. The right fit will have the engineering experience to build and iterate quickly and is comfortable working with product and design to set the technical strategy and roadmap.",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyU2NuObj4r7lTh2ii2s27ie0E_cI3dohVQ&usqp=CAU",
+      "requirementList": [
+        "5+ years of industry experience in a software engineering role, preferably building a SaaS product. You can demonstrate significant impact that your work has had on the product and/or the team.",
+        "Experience with scalable distributed systems, both built from scratch as well as on AWS primitives",
+        "Familiarity with relational databases and SQL",
+        "Ability to debug complex systems."
+      ],
+      "task": "The ideal candidate is as passionate about solving challenges through technology. They are well-versed in building proof of concepts from scratch and taking these POCs to production and scale. The right fit will have the engineering experience to build and iterate quickly and is comfortable working with product and design to set the technical strategy and roadmap.",
+      "taskList": [
+        "5+ years of industry experience in a software engineering role, preferably building a SaaS product. You can demonstrate significant impact that your work has had on the product and/or the team.",
+        "Experience with scalable distributed systems, both built from scratch as well as on AWS primitives",
+        "Familiarity with relational databases and SQL",
+        "Ability to debug complex systems."
+      ]
+    },
+    {
+      "id": 2,
+      "postedIn": "20h ago Part Time",
+      "title": "Haskell and PureScript Dev",
+      "company": "Bolgr",
+      "website": "blogr.com",
+      "place": "United States",
+      "description": "Blogr is looking for a part-time developer to join our six-strong team of full-stack engineers. Our core development values are strong, static typing and correctness, rigorous automation (in both testing and infrastructure) and everyone having a say.",
+      "requirements": "We are looking to carefully add great developers which care about solving problems & which have been in a relationship with Purescript and/or Haskell for at least 3 years (Not necessarily monogamous though).",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5IsyIb3iK4Nv5UeyboZct0h3Ti9HVEgPcKw&usqp=CAU",
+      "requirementList": [
+        "You have a knack for UI design",
+        "Have Haskell or Purescript knowledge/hacking under your belt.",
+        "An experienced engineer familiar with automated testing and deployment.",
+        "Experienced with functional programming and domain-driven design or simply interested and capable of learning on the job."
+      ],
+      "taskList": [
+        "5+ years of industry experience in a software engineering role, preferably building a SaaS product. You can demonstrate significant impact that your work has had on the product and/or the team.",
+        "Experience with scalable distributed systems, both built from scratch as well as on AWS primitives",
+        "Familiarity with relational databases and SQL",
+        "Ability to debug complex systems."
+      ]
+    },
+    {
+      "id": 3,
+      "postedIn": "1d ago Part Time",
+      "title": "MidLevel Backend Engineer",
+      "company": "Vector",
+      "place": "Russia",
+      "website": "vebtor.ru",
+      "description": "We are looking for a Mid-level Back End Engineer to join our growing software engineering organization. The right person will help move our platform to the next level. You’ll be working as part of a skilled, collaborative team to jointly design and implement high visibility applications.",
+      "requirements": "As our ideal candidate, you have previous experience in Ruby on Rails and are eager to continue to develop professionally. You work well in an agile environment, and collaborate well with other Software Engineers, Test Automation Engineers, Product Managers, and Designers. You thrive in a fast-paced environment, and are able to adapt when needed.",
+      "requirementList": [
+        "Active participation on a software development team designing, coding, testing, and releasing functionality to our customers",
+        "Close collaboration with other engineers and product managers to become a valued member of an autonomous, cross-functional team",
+        "Operational responsibility for the services that are owned by your team, potentially including taking part in an on-call rotation"
+      ],
+      "whatYouWillDo": "As our ideal candidate, you have previous experience in Ruby on Rails and are eager to continue to develop professionally. You work well in an agile environment, and collaborate well with other Software Engineers, Test Automation Engineers, Product Managers, and Designers. You thrive in a fast-paced environment, and are able to adapt when needed.",
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "https://static.vecteezy.com/system/resources/previews/000/546/318/original/diamond-vector-logo.jpg",
+      "taskList": [
+        "Active participation on a software development team designing, coding, testing, and releasing functionality to our customers.",
+        "Close collaboration with other engineers and product managers to become a valued member of an autonomous, cross-functional team",
+        "Operational responsibility for the services that are owned by your team, potentially including taking part in an on-call rotation"
+      ]
+    
+    },
+    {
+      "id": 4,
+      "postedIn": "2d ago Full Time",
+      "title": "Senior Application Engineering",
+      "company": "Kweel",
+      "website": "kweel.co",
+      "place": "France",
+      "description": "Office Lite is seeking a talented and enthusiastic Senior Application Engineer whose primary responsibility is software architecture and development for Office Lite systems. Additional responsibilities include participation in project time/task estimation, code and architecture reviews, providing support for junior developers, documentation of system architecture and a supporting role for all phases of the development life-cycle (project definition, process mapping, architecture, coding, acceptance testing, installation, turnover to support, etc.).",
+      "requirements": "As a hands-on subject matter expert, you will use expert-level engineering knowledge to provide technical support and help translate customer requirements into exciting new product features. You will be working within multi-disciplinary teams to create pervasive simulation solutions, advance your industry knowledge, and grow the business impact.",
+      "whatYouWillDo": "As a hands-on subject matter expert, you will use expert-level engineering knowledge to provide technical support and help translate customer requirements into exciting new product features. You will be working within multi-disciplinary teams to create pervasive simulation solutions, advance your industry knowledge, and grow the business impact.​",
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "Expert Node.js proficiency in a production environment",
+        "Proficiency in developing REST APIs",
+        "Expert proficiency with relational databases (MySQL) and optimizing SQL queries"
+      ],
+      "taskList": [
+        "Expert Node.js proficiency in a production environment",
+        "Proficiency in developing REST APIs",
+        "Expert proficiency with relational databases (MySQL) and optimizing SQL queries",
+        "Experience with CircleCI, Jenkins or similar CI/CD applications"
+      ],
+      "imgSrc": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 5,
+      "postedIn": "2d ago Part Time",
+      "title": "Remote DevOps Engineering",
+      "company": "Pod",
+      "website": "pod.com",
+      "place": "Japan",
+      "description": "Join our dynamic team in developing Pod’s core products and supporting infrastructure. Our software is currently written in Java, VB.Net, React Native, React JS and others. You will help lead new initiatives to build and improve the testing, staging and deployment solutions. You will interact with all development teams, development leadership and our hosting/IT staff to define requirements and goals for the Dev Ops Platform.",
+      "requirements": "We are looking for talented and motivated engineers who can hit the ground running and take our products to the next level. The engineers who are building our platform across the stack are always willing to go the extra mile to deliver the highest quality software and client experiences. Ideally, you would have:",
+      "requirementList": [
+        "Bachelor's degree preferred, strong preference for Computer Science field of study",
+        "Minimum of 5 years of relevant work experience",
+        "Hands-on experience with configuring and maintaining resources on AWS",
+        "Experience and solid understanding to deploy and maintain container orchestration platforms such as ECS or Kubernetes",
+        "Knowledge of networking fundamentals"
+      ],
+      "taskList": [
+        "Bachelor’s degree in IT or related field",
+        "Minimum of 5 years of relevant work experience",
+        "Strong written and verbal communication skills",
+        "Experience with CircleCI, Jenkins or similar CI/CD applications"
+      ],
+      "whatYouWillDo": "We are looking for talented and motivated engineers who can hit the ground running and take our products to the next level. The engineers who are building our platform across the stack are always willing to go the extra mile to deliver the highest quality software and client experiences. Ideally, you would have:",
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "https://www.shutterstock.com/image-vector/letters-pod-linked-helix-infinity-260nw-1383499178.jpg"
+    },
+    {
+      "id": 6,
+      "postedIn": "3d ago Part Time",
+      "title": "Desktop Support Manager",
+      "website": "creative.gm",
+      "company": "Creative",
+      "place": "Germany",
+      "description": "Creative is seeking a Desktop Support Manager responsible for managing and leading a high-performance team in a dynamic environment. The ideal candidate should have management experience, a strong technical skillset, exceptional client service skills and enjoy mentoring a team.",
+      "requirements": "You are likely someone with a solid background in end-user support and troubleshooting, as this position involves dealing with a large, and often changing, number of day-to-day issues which arise in supporting the information technology requirements of our applications.",
+      "whatYouWillDo": "You are likely someone with a solid background in end-user support and troubleshooting, as this position involves dealing with a large, and often changing, number of day-to-day issues which arise in supporting the information technology requirements of our applications.",
+      "requirementList": [
+        "Bachelor’s degree in IT or related field",
+        "5+ years demonstrating strong technical skills supporting end users",
+        "3+ years in a leadership capacity (Team Lead, Supervisor, or Manager)",
+        "Experience using Professional Services Automation (PSA) tools or ticketing platforms such as ConnectWise, Autotask, ServiceNow, etc.",
+        "Possess and demonstrate excellent interpersonal/communication skills"
+      ],
+      "taskList": [
+        "Bachelor’s degree in IT or related field",
+        "5+ years demonstrating strong technical skills supporting end users",
+        "3+ years in a leadership capacity (Team Lead, Supervisor, or Manager)",
+        "Experience using Professional Services Automation (PSA) tools or ticketing platforms such as ConnectWise, Autotask, ServiceNow, etc."
+      ],
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "https://img.freepik.com/premium-vector/creative-unique-pencil-art-logo-design-template_132230-556.jpg"
+    },
+    {
+      "id": 7,
+      "postedIn": "3d ago Full Time",
+      "title": "iOS Engineer",
+      "company": "Promodoro",
+      "website" : "pomodoro.io",
+      "place": "United States",
+      "requirementList": [
+        "Strong programming skills in Objective-C and/or Swift",
+        "Previous experience developing mobile applications on iOS",
+        "Experience working closely across a variety of teams, including product management, design, and engineering",
+        "Knowledge of core CS concepts such as common data structures and algorithms, profiling, and optimization"
+      ],
+      "taskList": [
+        "Strong programming skills in Objective-C and/or Swift",
+        "Previous experience developing mobile applications on iOS",
+        "Experience working closely across a variety of teams, including product management, design, and engineering",
+        "Knowledge of core CS concepts such as common data structures and algorithms, profiling, and optimization"
+      ],
+      "description": "We are looking for thoughtful, well-rounded iOS engineer to join our team. We’re looking for someone to help build out the foundation of the app and infrastructure. If you are interested in taking part in building an application that millions of people use every day to increase their productivity, this is the perfect opportunity. You will play an important part in our mobile engineering practice, implementing new features, improving performance, and building beautiful user interfaces.",
+      "requirements": "You are an experienced mobile engineer looking to make Pomodoro one of the best mobile experiences out there. You are someone who excels at customer-centric product development and has a passion for working on application architecture and design, and making smooth, delightful experiences. You care deeply about quality, are energized by partnership and collaboration, and you strive to enable others around you to excel.",
+      "whatYouWillDo": "You are an experienced mobile engineer looking to make Pomodoro one of the best mobile experiences out there. You are someone who excels at customer-centric product development and has a passion for working on application architecture and design, and making smooth, delightful experiences. You care deeply about quality, are energized by partnership and collaboration, and you strive to enable others around you to excel.",
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 8,
+      "postedIn": "5d ago Part Time",
+      "title": "Senior EJB Developer",
+      "company": "Maker",
+      "website": "maker.com",
+      "place": "United Kingdom",
+      "description": "We are seeking an experienced EJB Developer who will join our fast-growing engineering team, working on mission-critical applications. Searching for a Senior Java Developer who thrives on working with enterprises in multiple industries with unique business challenges requiring sophisticated solution design.",
+      "requirementList": [
+        "Computer Science degree or equivalent",
+        "Experience with EJB, J2EE,Tomcat, JBoss andrelational databases such as MySQL, MSSQL, Oracle",
+        "At least three years of post-graduate experience",
+        "Deep understanding of OO programming principals and commitment to clean, efficient, well documented code"
+      ],
+      "taskList": [
+        "Computer Science degree or equivalent",
+        "Experience with EJB, J2EE,Tomcat, JBoss andrelational databases such as MySQL, MSSQL, Oracle",
+        "At least three years of post-graduate experience",
+        "Deep understanding of OO programming principals and commitment to clean, efficient, well documented code"
+      ],
+      "requirements": "The candidate must have work experience in all aspects of designing and constructing J2EE/EJB systems and developing system requirements and design specifications, and J2EE/EJB Coding for new and existing applications.",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "task": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "imgSrc": "https://t4.ftcdn.net/jpg/03/75/38/73/360_F_375387396_wSJM4Zm0kIRoG7Ej8rmkXot9gN69H4u4.jpg"
+    },
+    {
+      "id": 9,
+      "postedIn": "1w ago Full Time",
+      "title": "Senior Frontend Developer",
+      "company": "Cofferoasters",
+      "website": "coffeorasters.com",
+      "place": "Singapore",
+      "description": "We’re looking for an experienced Frontend Developer with an eye for Product Design along with a honed set of coding skills and who shares our values around technology. Most importantly, we’d like someone who is collaborative and can work closely with the rest of our team shaping product.",
+      "requirements": "You will be responsible for executing high quality solutions for customers and contributing to the day-to-day technical excellence of a delivery team. You should have a deep understanding of Modern JavaScript, HTML and CSS, the software development life cycle, and possess the ability to implement and execute standard software architecture patterns.",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "4+ years of experience of Frontend Development",
+        "Expertise with React required",
+        "Expertise with Next.js, Apollo, Typescript, and GraphQL preferred"
+      ],
+      "taskList": [
+        "4+ years of experience of Frontend Development",
+        "Expertise with React required",
+        "Expertise with Next.js, Apollo, Typescript, and GraphQL preferred"
+      ],
+      "imgSrc": "https://static.vecteezy.com/system/resources/previews/008/089/682/original/coffee-bean-icons-coffee-bean-icon-design-illustration-coffee-bean-icon-simple-sign-coffee-bean-logo-vector.jpg"
+    },
+    {
+      "id": 10,
+      "postedIn": "1w ago Full Time",
+      "title": "App & Website Designer",
+      "website": "mastercraft.com",
+      "company": "Mastercraft",
+      "place": "United States",
+      "description": "Mastercraft is looking for a UX/UI Designer to turn our software into easy-to-use products for our clients. Responsibilities include gathering user requirements, designing graphic elements and building software component",
+      "requirements": "To be successful in this role, you should have experience with design software and wireframe tools preferably Figma. You should also have a portfolio of professional design projects that includes work with web/mobile applications.",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "At least 3 years of experience in a related field.",
+        "Portfolio of design projects.",
+        "Degree in Design, UX or relevant field.",
+        "Experience with design process and systematic approach to organization, workflow"
+      ],
+      "taskList": [
+        "At least 3 years of experience in a related field.",
+        "Portfolio of design projects.",
+        "Degree in Design, UX or relevant field.",
+        "Experience with design process and systematic approach to organization, workflow"
+      ],
+      "imgSrc": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/9081/brand.gif?itok=CEDxbEj7"
+    },
+    {
+      "id": 11,
+      "postedIn": "1mo ago Part Time",
+      "title": "Fullstack developer",
+      "website": "crofdfund.com",
+      "company": "CrowdFund",
+      "place": "New Zealand",
+      "description": "Crowdfund is currently expanding and working on revolutionizing the world of raising funds for any project – creative, entrepreneurial or cause-related. Come and join us in this growth! We are looking for an exceptionally talented Fullstack Developer who will become an integral part of the company’s exciting new chapter.",
+      "requirements": "We'd love to hear from you if you take ownership of your work and continuously want to improve the products you've built. We're looking for developers who have an uncanny abilithy to work very well cross-functionality in a flat startup.",
+      "whatYouWillDo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "4+ years of web development experience",
+        "Strong CS fundamentals and problem solving skills",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Excellent debugging skills & strong belief in automated testing and coverage",
+        "Team player who enjoys mentoring and agile environments"
+      ],
+      "taskList": [
+        "4+ years of web development experience",
+        "Strong CS fundamentals and problem solving skills",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Excellent debugging skills & strong belief in automated testing and coverage",
+        "Team player who enjoys mentoring and agile environments"
+      ],
+      "imgSrc": "data:image/png;base64,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"
+    },
+    {
+      "id": 12,
+      "postedIn": "2mo ago Full Time",
+      "title": "Technical Lead Engineer",
+      "website": "typemaster.com",
+      "company": "Typemaster",
+      "place": "United Kingdom",
+      "description": "We are looking for a talented tech lead to join a team that creates large-scale, highly-performant web applications. This team creates highly visible and responsive user interfaces used by millions of people.",
+      "requirements": "Our work is not just about the code: we seek a tech lead who cares deeply about user experience and how their work impacts users. An ideal candidate has extensive experience as a full-stack software engineer, including experience with both Django and React/Redux, our stack. This role is perfect for a seasoned full-stack developer who is looking to grow both as an engineer and technical product owner. We want someone who takes the initiative to learn, enjoys thoughtful code review, and has a history collaborating with other software engineers to develop best patterns and practices.",
+      "whatYouWillDo": "Our work is not just about the code: we seek a tech lead who cares deeply about user experience and how their work impacts users. An ideal candidate has extensive experience as a full-stack software engineer, including experience with both Django and React/Redux, our stack. This role is perfect for a seasoned full-stack developer who is looking to grow both as an engineer and technical product owner. We want someone who takes the initiative to learn, enjoys thoughtful code review, and has a history collaborating with other software engineers to develop best patterns and practices.",
+      "requirementList": [
+        "5-7 years of experience in infrastructure engineering of applications",
+        "Experience in web application security analysis and resolution.",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Excellent debugging skills & strong belief in automated testing and coverage",
+        "Experience working within a modern Javascript workflow through technologies such as: GitHub, CSS Preprocessors, Styled Components, Single Page Application frameworks and Module Bundlers (Webpack etc.)"
+      ],
+      "taskList": [
+        "5-7 years of experience in infrastructure engineering of applications",
+        "Experience in web application security analysis and resolution.",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Excellent debugging skills & strong belief in automated testing and coverage",
+        "Experience working within a modern Javascript workflow through technologies such as: GitHub, CSS Preprocessors, Styled Components, Single Page Application frameworks and Module Bundlers (Webpack etc.)"
+      ],
+      "imgSrc": "https://cdn.dribbble.com/userupload/2582751/file/original-f6ac5f1e412b80da59bcf4eaff521100.jpg?resize=400x0"
+    },
+    {
+      "id": 13,
+      "postedIn": "2mo ago Part Time",
+      "title": "Frontend Developer",
+      "company": "Crowund",
+      "website": "crowund.io",
+      "place": "New Zealand",
+      "description": "Crowund is currently expanding and working on revolutionizing the world of raising funds for any project – creative, entrepreneurial or cause-related. Come and join us in this growth! We are looking for an exceptionally talented Fullstack Developer who will become an integral part of the company’s exciting new chapter.",
+      "requirements":" We'd love to hear from you if you take ownership of your work and continuously want to improve the products you've built. We're looking for developers who have an uncanny abilithy to work very well cross-functionality in a flat startup.",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "4+ years of web development experience",
+        "Strong CS fundamentals and problem solving skills",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Passion, drive, energy, a sense of humor and a great attitude!",
+        "Experience working within a modern Javascript workflow through technologies such as: GitHub, CSS Preprocessors, Styled Components, Single Page Application frameworks and Module Bundlers (Webpack etc.)"
+      ],
+      "taskList": [
+        "5-7 years of experience in infrastructure engineering of applications",
+        "Experience in web application security analysis and resolution.",
+        "Production expertise with Ruby on Rails [preferred], Python, PHP, Java, or your favorite modern stack",
+        "Excellent debugging skills & strong belief in automated testing and coverage",
+        "Experience working within a modern Javascript workflow through technologies such as: GitHub, CSS Preprocessors, Styled Components, Single Page Application frameworks and Module Bundlers (Webpack etc.)"
+      ],
+      "imgSrc": "https://t3.ftcdn.net/jpg/03/33/09/88/360_F_333098851_oaiN8o7glILcg7nsT1vhSPewI1wSjzyN.jpg"
+    },
+    {
+      "id": 14,
+      "postedIn": "1w ago Full Time",
+      "title": "Senior Frontend Developer",
+      "company": "Cofferoasters",
+      "website": "coffeorasters.com",
+      "place": "Singapore",
+      "description": "We’re looking for a Junior Full-Stack Developer to join our Product and Engineering team. This is an exciting opportunity to work on building our core web application.",
+      "requirements": "This is an entry level full stack developer position that will assist in developing the next generation apps and APIs. You will be a contributor to agile teams by providing services that ensure Coffeeroasters is aligning technology efforts with business information needs. The intent is to develop a junior full stack developer to become a well-rounded API developer ready to take on any challenging opportunity.",
+      "whatYouWillDo": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id nam nihil officiis eligendi, laudantium ipsa quasi modi ea totam.",
+      "requirementList": [
+        "A degree in Computer Science or an equivalent engineering foundation.",
+        "Experience in Python and/or JavaScript.",
+        "Ability to thrive in a fast-paced startup",
+        "Someone who loves to learn and is passionate about helping others."
+      ],
+      "taskList": [
+        "A degree in Computer Science or an equivalent engineering foundation.",
+        "Experience in Python and/or JavaScript.",
+        "Ability to thrive in a fast-paced startup",
+        "Someone who loves to learn and is passionate about helping others."
+      ],
+      "imgSrc": "https://static.vecteezy.com/system/resources/previews/008/089/682/original/coffee-bean-icons-coffee-bean-icon-design-illustration-coffee-bean-icon-simple-sign-coffee-bean-logo-vector.jpg"
+    }
+  ]
+}
